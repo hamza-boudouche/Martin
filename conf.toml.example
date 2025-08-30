@@ -1,0 +1,10 @@
+[weather_api]
+token = ""
+
+
+[discord]
+webhook_url = ""
+
+[[discord.users]]
+id = ""
+city = ""
